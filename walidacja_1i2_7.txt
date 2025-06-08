@@ -1,0 +1,6 @@
+- dobrze opisany problem, odrazu wiadomo co znajduje się w ramce danych i jaki chcemy uzyskać cel
+- pca prawidłowo, fajny wykres
+- tsna prawidłowo
+- słuszne wnioski podczas redukcji wymiarowości
+- miłe wizualizacje klastrów (czy wiadomo skąd się wziął ten niebieski punkt sród pomarańczowych dla KMeans)
+- dobre metryki poparte źródłami
